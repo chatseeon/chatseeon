@@ -19,4 +19,4 @@ jobs:
            NODE_TLS_REJECT_UNAUTHORIZED: 0
         with:
           feed_list: "https://csworldlet.top/feed/,https://hoyue.fun/feed/"
-          template: $feedName"最近更新,在看"
+          template: $newline - [在看](https://hoyue.fun/feed/) - $categories
