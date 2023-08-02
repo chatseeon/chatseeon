@@ -9,3 +9,7 @@
 - [观时代变迁，品人世悲欢——《人世间》](https://csworldlet.top/56.html)
 - [村上春树长篇代表作品集](https://csworldlet.top/54.html)
 <!-- BLOG-POST-LIST:END -->
+
+# 最近在看
+<!-- OTHERBLOG-POST-LIST:START -->
+<!-- OTHERBLOG-POST-LIST:END -->
