@@ -4,7 +4,3 @@
 # 最近更新
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-# 最近在看
-<!-- OTHERBLOG-POST-LIST:START -->
-<!-- OTHERBLOG-POST-LIST:END -->
