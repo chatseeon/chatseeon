@@ -2,7 +2,7 @@
 独立开发者，自己开发，自己使用，自己嗨
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chatseeon)](https://github.com/stats-organization/github-stats-extended)
 
 
 # 最近更新
