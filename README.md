@@ -5,8 +5,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chatseeon&layout=donut&hide_title=true&langs_count=5&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=chatseeon&layout=donut&hide_title=true&langs_count=5&theme=github_dark_dimmed)
-
 # 最近更新
 <!-- BLOG-POST-LIST:START -->
 - [【教程】Windows快捷打开应用及网站](https://csworldlet.top/62.html)
