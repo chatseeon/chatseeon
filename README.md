@@ -2,7 +2,7 @@
 独立开发者，自己开发，自己使用，自己嗨
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chatseeon)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 
 
 # 最近更新
