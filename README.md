@@ -3,7 +3,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=chatseeon&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 
-![流彩热力图效果](https://media.githubusercontent.com/media/chatseeon/Css-effect/main/fluid-matrix-pure-soul.gif)
+![流彩热力图效果](https://media.githubusercontent.com/media/chatseeon/Css-effect/main/fluid-matrix-pure-soul.gif)(https://css-effect-ten.vercel.app/LED-Heatmap/colorful-heatmap.html)
 
 # 最近更新
 <!-- BLOG-POST-LIST:START -->
