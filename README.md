@@ -6,9 +6,5 @@
 [![流彩热力图效果](https://media.githubusercontent.com/media/chatseeon/Css-effect/main/fluid-matrix-pure-soul.gif)](https://css-effect-ten.vercel.app/LED-Heatmap/colorful-heatmap.html)
 # 最近更新
 <!-- BLOG-POST-LIST:START -->
-- [【教程】Windows快捷打开应用及网站](https://csworldlet.top/62.html)
-- [铃芽户缔（铃芽之旅）小说中文版](https://csworldlet.top/60.html)
-- [【特约作者】那些年，青春正好。](https://csworldlet.top/58.html)
-- [观时代变迁，品人世悲欢——《人世间》](https://csworldlet.top/56.html)
-- [村上春树长篇代表作品集](https://csworldlet.top/54.html)
+- [【教程】Windows快捷打开应用及网站]([https://csworldlet.top/62.html](https://csworldlet.top/%e3%80%90%e6%95%99%e7%a8%8b%e3%80%91windows%e5%bf%ab%e6%8d%b7%e6%89%93%e5%bc%80%e5%ba%94%e7%94%a8%e5%8f%8a%e7%bd%91%e7%ab%99/))
 <!-- BLOG-POST-LIST:END -->
